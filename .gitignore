@@ -1,0 +1,21 @@
+# Project data and outputs do not belong in the reusable package.
+projects/
+input/
+output/
+working-notes/
+private/
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pdf
+*.zip
+*.py
+*.pyc
+.venv/
+__pycache__/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+~$*

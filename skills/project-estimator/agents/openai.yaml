@@ -1,0 +1,7 @@
+interface:
+  display_name: "Project Estimator"
+  short_description: "Review Azure project effort and weekly delivery plans"
+  default_prompt: "Use $project-estimator to review my service request, confirm scope, and prepare an estimate with a weekly Gantt plan."
+
+policy:
+  allow_implicit_invocation: true
